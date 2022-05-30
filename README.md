@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [https://albertjonathan.netlify.app/](https://albertjonathan.netlify.app/)
 
-- 📫 How to reach me **albertjonathan.dev@gmail.com**
+- 📫 Reach me at **albertjonathan.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
