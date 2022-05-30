@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://albertjonathan.netlify.app/](https://albertjonathan.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://albertjonathan.netlify.app/](https://albertjonathan.netlify.app/) -->
 
 - 📫 Reach me at **albertjonathan.dev@gmail.com**
 
