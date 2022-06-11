@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi! 👋 I'm Albert Jonathan</h1>
 <!-- <h3 align="center">a full-stack developer who loves history</h3> -->
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js**, **MongoDB**, **ExpressJS**
 
 <!-- - 👨‍💻 All of my projects are available at [https://albertjonathan.netlify.app/](https://albertjonathan.netlify.app/) -->
 
