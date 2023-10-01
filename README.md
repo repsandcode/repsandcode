@@ -18,13 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <br>
 
-  <p>
-    <a href="https://github.com/repsandcode/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=repsandcode&layout=compact&langs_count=8&card_width=320" />
-    </a>
-  </p>
 </div>
 
 
