@@ -1,7 +1,7 @@
 <div id="badges" align="center">
   
   <h3>
-    hey, thanks for being here 👋
+    hey, thanks for dropping by 👋
   </h3>
   
     
